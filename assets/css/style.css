@@ -27,7 +27,12 @@
  .Services {
     background-color:#f3f9ff;
  }
-
+ #Pricing{
+    background-color:#f3f9ff ;
+ }
+#Contact{
+     background-color:#f3f9ff ;
+}
 .phone-img {
     width: 100%;
     height: auto;
