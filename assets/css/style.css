@@ -1,141 +1,127 @@
-.nav-main{
+.nav-main {
     background-color: white !important;
     border-radius: 70px;
     padding: 12px 30px;
 }
-.btn-nav:hover{
+.btn-nav:hover {
     background-color: #308ef2
 }
-:root{
+:root {
     --blue-color: #0d83fd;
 }
-.nav-home{
-color: var(--blue-color);
+.nav-home {
+    color: var(--blue-color);
 }
-.nav-child ul li a{
-font-weight: 500;
-font-size: 16px;
+.nav-child ul li a {
+    font-weight: 500;
+    font-size: 16px;
 }
-.nav-child ul li a:hover{
-color: #0d83fd;
-
+.nav-child ul li a:hover {
+    color: #0d83fd;
 }
-.Modisit{
-padding-left: 30px;
-padding-right: 30px;
-width: 320px !important;
-
-
+.Modisit {
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 320px !important;
 }
-.phone-img{
-width: 100%;
-height: auto;
-
-
+.phone-img {
+    width: 100%;
+    height: auto;
 }
-header{
-       background: linear-gradient(135deg,
- color-mix(in srgb,  #0d83fd, transparent 95%) 50%,
- color-mix(in srgb, #0d83fd, transparent 98%) 25%, transparent 50%);
+header {
+    background: linear-gradient(135deg,
+            color-mix(in srgb, #0d83fd, transparent 95%) 50%,
+            color-mix(in srgb, #0d83fd, transparent 98%) 25%, transparent 50%);
 }
-.hero-img{
-
+.hero-img {
     width: 100%;
 }
-.carts:hover i{
+.carts:hover i {
     background-color: #0d83fd !important;
     color: #ffffff !important;
     transition: all .5s ease;
 }
-.carts{
+.carts {
     margin-top: 40px;
 }
-.images{
-position: relative;
-
+.images {
+    position: relative;
 }
-.about-img{
-border-radius: 20px;
+.about-img {
+    border-radius: 20px;
     width: 100%;
 }
-
-.about-img1{
+.about-img1 {
     width: 250px;
-    position:relative;
+    position: relative;
     border-radius: 20px;
-top: -300px;
-left: -40px;
-border: 7px solid white;
+    top: -300px;
+    left: -40px;
+    border: 7px solid white;
 }
-.line{
+.line {
     width: 50px;
     height: 4px;
     background-color: #308ef2;
-    
 }
-
-.imgabout{
+.imgabout {
     width: 60px;
     border-radius: 100%;
 }
-.hero{
+.hero {
     padding-top: 150px;
 }
 .Corporis {
-
-background-color:#fff3e2 !important ;
-border-radius: 10px;
+    background-color: #fff3e2 !important;
+    border-radius: 10px;
 }
-.Corporis i{
- color:#edb86e ;
+.Corporis i {
+    color: #edb86e;
     font-size: 50px;
 }
-.blue{
+.blue {
     background-color: #deedfd;
     border-radius: 10px;
-    padding-top:40px !important ;
+    padding-top: 40px !important;
     padding-bottom: 30px !important;
 }
-.blue i{
+.blue i {
     font-size: 50px;
-    color:#20a5f8 ;
-
+    color: #20a5f8;
 }
-
-.green{
+.green {
     background-color: #d5f1e4;
     border-radius: 10px;
-    
 }
-.green i{
+.green i {
     font-size: 50px;
-    color:#48c88a ;
+    color: #48c88a;
 }
-.red{
-    background-color:#fdeded ;
+.red {
+    background-color: #fdeded;
     border-radius: 10px;
 }
 .red i {
     color: #f28484;
     font-size: 50px;
 }
-.heading1{
+.heading1 {
     font-size: 50px;
 }
-.carts  div i{
+.carts div i {
     border-radius: 100% !important;
- padding: 20px;
-font-size: 30px !important;
+    padding: 20px;
+    font-size: 30px !important;
 }
-.images6{
-opacity: 0.5;
-filter: grayscale(1);
-transition: 0.3s;
+.images6 {
+    opacity: 0.5;
+    filter: grayscale(1);
+    transition: 0.3s;
 }
-.images6:hover{
+.images6:hover {
     opacity: 1;
     filter: none;
-    transform:scale(1.1) ;
+    transform: scale(1.1);
     transition: all 1s ease;
 }
 .team-img {
@@ -144,23 +130,21 @@ transition: 0.3s;
     border: 5px solid #e7f2fd;
     border-radius: 100%;
 }
-.star i{
-    color:#afe43e;
+.star i {
+    color: #afe43e;
 }
-.tem-icons{
+.tem-icons {
     color: #20a5f8;
 }
-.s-card:hover .Services-card  i{
-
-background-color: #0d83fd;
-transition: all .5s ease;
-color: #ffffff !important;
-
+.s-card:hover .Services-card i {
+    background-color: #0d83fd;
+    transition: all .5s ease;
+    color: #ffffff !important;
 }
-.Plan:hover{
-    box-shadow:rgba(0, 0, 0, 0.1) 0px 10px 30px 0px;
+.Plan:hover {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 30px 0px;
 }
-.pricing-h3{
+.pricing-h3 {
     position: relative;
     bottom: 35px;
     font-size: 56px;
@@ -170,62 +154,59 @@ color: #ffffff !important;
     padding-right: 100px;
     margin-bottom: 100px;
 }
-.Message{
+.Message {
     height: 150px;
 }
-.Message-btn{
-    padding-left:40px ;
+.Message-btn {
+    padding-left: 40px;
     padding-right: 40px;
-    
     background-color: #0d83fd;
     color: #ffffff;
 }
-.Message-btn:hover{
+.Message-btn:hover {
     background-color: #20a5f8;
     color: #ffffff;
     transition: all .5s ease;
 }
-.uesful-link a{
+.uesful-link a {
     color: #444444;
 }
-.uesful-link a:hover{
+.uesful-link a:hover {
     color: #20a5f8;
     transition: all .5s ease;
 }
-.footer-icons i{
+.footer-icons i {
     border: 1px solid #48c88a;
     border-radius: 100%;
 }
-.footer-icons i:hover{
+.footer-icons i:hover {
     color: #48c88a;
     border: 1px solid #20a5f8;
     cursor: pointer;
 }
-.most-p{
+.most-p {
     position: relative;
     bottom: 15px;
     border-radius: 30px;
 }
-.buy-now button:hover{
+.buy-now button:hover {
     background-color: #d2dde8 !important;
 }
-.buy-now1 button:hover{
+.buy-now1 button:hover {
     background-color: #20a5f8;
 }
-.buy-now1 button{
-    
-     padding-left: 100px;
+.buy-now1 button {
+    padding-left: 100px;
     padding-right: 100px;
     margin-bottom: 100px;
 }
-.phon-icons i{
-border-radius: 100%;
-
+.phon-icons i {
+    border-radius: 100%;
 }
-.contact-icon i{
+.contact-icon i {
     border-radius: 100%;
     background-color: #308ef2;
 }
-.contact-icon:hover i{
+.contact-icon:hover i {
     background-color: #20a5f8;
 }
