@@ -24,8 +24,8 @@
     padding-right: 30px;
     width: 320px !important;
 }
- #Services {
-    background-color: ##f3f9ff;
+ .Services {
+    background-color: #f3f9ff;
  }
 
 .phone-img {
